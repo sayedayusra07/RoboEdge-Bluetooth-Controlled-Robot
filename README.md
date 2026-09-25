@@ -91,7 +91,7 @@ This robot was developed for the **RoboEdge Inter-College Competition**, which c
 
 The Bluetooth-controlled robot was designed as a manually controlled platform for these competition challenges.
 
-## 📸 Robot Images
+##  Robot Images
 
 ### Front View
 ![Robot Front View](ROBO_front_view.jpeg)
