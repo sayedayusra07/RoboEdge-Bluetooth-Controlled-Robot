@@ -94,10 +94,10 @@ The Bluetooth-controlled robot was designed as a manually controlled platform fo
 ## 📸 Robot Images
 
 ### Front View
-![Robot Front View](ROBO_front_view.jepg)
+![Robot Front View](ROBO_front_view.jpeg)
 
 ### Side View
-![Robot Side View](ROBO_side_view.jepg)
+![Robot Side View](ROBO_side_view.jpeg)
 
 ##  Repository Contents
 
