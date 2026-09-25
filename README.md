@@ -91,6 +91,14 @@ This robot was developed for the **RoboEdge Inter-College Competition**, which c
 
 The Bluetooth-controlled robot was designed as a manually controlled platform for these competition challenges.
 
+## 📸 Robot Images
+
+### Front View
+![Robot Front View](ROBO_front_view.jepg)
+
+### Side View
+![Robot Side View](ROBO_side_view.jepg)
+
 ##  Repository Contents
 
 - `Robo_arduino_code.ino` – Arduino code for Bluetooth communication and motor control.
